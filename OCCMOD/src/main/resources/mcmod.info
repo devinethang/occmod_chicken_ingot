@@ -1,0 +1,16 @@
+[
+{
+  "modid": "occmod",
+  "name": "Devin has Chickens",
+  "description": "Example placeholder mod.",
+  "version": "${0.1}",
+  "mcversion": "${1.11.2}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DevinEthanG"],
+  "credits": "The Forge and FML guys, and me",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
